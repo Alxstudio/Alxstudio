@@ -8,7 +8,7 @@ React · Next.js 14 · TypeScript · Tailwind CSS · Supabase · FastAPI · Thre
 
 ## 🚀 What I'm building
 - **Caleo** — Full-stack price comparison app for Spanish supermarkets. 
-  LLM pipeline (Claude Haiku) with ~96.5% product match rate over 7,500 products.
+  LLM pipeline (Claude Haiku) with 96.5% product match rate over 7,500 products.
 - **Sedentaris** — Official website for an athletics club. Freelance project.
 
 ## 📚 Currently
