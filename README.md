@@ -12,7 +12,7 @@ React · Next.js 14 · TypeScript · Tailwind CSS · Supabase · FastAPI · Thre
 - **Sedentaris** — Official website for an athletics club. Freelance project.
 
 ## 📚 Currently
-- Finishing DAW degree · Studying AI-900 certification
+- Finishing DAW degree · Studying AI-901 certification
 - Transitioning into AI Engineering
 
 ## 📬 Let's connect
