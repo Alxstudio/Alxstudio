@@ -4,7 +4,7 @@ Front-End Developer based in Barcelona, transitioning into AI Engineering.
 I build real products — from idea to production.
 
 ## 🛠 Stack
-React · Next.js 14 · TypeScript · Tailwind CSS · Supabase · FastAPI · Three.js
+React · Next.js 16 · TypeScript · Tailwind CSS · Supabase · FastAPI · Three.js
 
 ## 🚀 What I'm building
 - **Caleo** — Full-stack price comparison app for Spanish supermarkets. 
