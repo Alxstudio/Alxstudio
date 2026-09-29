@@ -20,4 +20,4 @@ Co-founder & Product/UI Designer at [Aetthel](https://aetthel.com) a digital stu
 - Transitioning into AI Engineering
 
 ## 📬 Let's connect
-[LinkedIn](https://linkedin.com/in/alexcortell) · [Portfolio](https://cv-sigma-flax.vercel.app) · [Aetthel](https://aetthel.com)
+[LinkedIn](https://linkedin.com/in/alexcortell) · [Portfolio](https://alex-cortell.vercel.app/) · [Aetthel](https://aetthel.com)
