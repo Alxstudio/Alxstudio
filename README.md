@@ -12,8 +12,8 @@
 </p>
 
 ### Hey, I'm Alex 👋
-### Full-stack · AI Product · AI Engineering — based in Barcelona.
-### I build real products from idea to production.
+Full-stack · AI Product · AI Engineering — based in Barcelona.
+I build real products from idea to production.
 
 ## 🏢 Aetthel
 Co-founder & Product/UI Designer at [Aetthel](https://aetthel.com) a digital studio building landing pages, custom web apps, and process automation (Stripe, OpenAI, Google Workspace, WhatsApp, Slack, n8n, Supabase).
