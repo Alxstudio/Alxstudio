@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://alex-cortell.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=10B981&center=true&vCenter=true&width=560&lines=Building+real+products+from+idea+to+production;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Three.js;Co-founder+%40+Aetthel;Transitioning+into+AI+Engineering" alt="Building real products from idea to production" /></a>
+  <a href="https://alex-cortell.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=10B981&center=true&vCenter=true&width=560&lines=Building+real+products+from+idea+to+production;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind+%C2%B7+Supabase;Co-founder+%40+Aetthel;Transitioning+into+AI+Engineering" alt="Building real products from idea to production" /></a>
 </p>
 
 ### Hey, I'm Alex 👋
@@ -11,9 +11,7 @@ Front-end / Full-stack Web Developer based in Barcelona, transitioning into AI E
 I build real products from idea to production.
 
 ## 🛠 Stack
-<p align="left">
-  <a href="https://alex-cortell.vercel.app/"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,supabase" alt="React · Next.js · TypeScript · Tailwind CSS · Supabase" /></a>
-</p>
+React · Next.js · TypeScript · Javascript · Tailwind CSS · Supabase · FastAPI · Three.js · Python
 
 ## 🏢 Aetthel
 Co-founder & Product/UI Designer at [Aetthel](https://aetthel.com) a digital studio building landing pages, custom web apps, and process automation (Stripe, OpenAI, Google Workspace, WhatsApp, Slack, n8n, Supabase).
