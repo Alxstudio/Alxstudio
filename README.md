@@ -16,7 +16,7 @@ Co-founder & Product/UI Designer at [Aetthel](https://aetthel.com) a digital stu
 - **Aetthel** Landing pages, web apps, and automations for real clients.
 
 ## 📚 Currently
--  DAW degree · Studying AI-901 certification
+-  DAW degree · AI-901 certification
 - Transitioning into AI Engineering
 
 ## 📬 Let's connect
