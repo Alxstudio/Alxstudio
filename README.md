@@ -9,7 +9,7 @@ Full-stack · AI Product · AI Engineering — based in Barcelona.
 I build real products from idea to production.
 
 ## 🛠 Stack
-<a href="https://alex-cortell.vercel.app/"><img src="./assets/stack-v4.svg" alt="Full-stack: TypeScript, JavaScript, React, Next.js, Node.js, Tailwind CSS, Three.js · AI Engineering: Python, FastAPI, Claude · Platform and tooling: Supabase, Vercel, Git, Figma" /></a>
+<a href="https://alex-cortell.vercel.app/"><img src="./assets/stack-v5.svg" alt="Full-stack: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, Supabase · AI Engineering: Python, FastAPI, Claude · Platform and tooling: Vercel, Git, Figma" /></a>
 
 ## 🏢 Aetthel
 Co-founder & Product/UI Designer at [Aetthel](https://aetthel.com) a digital studio building landing pages, custom web apps, and process automation (Stripe, OpenAI, Google Workspace, WhatsApp, Slack, n8n, Supabase).
