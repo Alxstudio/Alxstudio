@@ -11,7 +11,9 @@ Front-end / Full-stack Web Developer based in Barcelona, transitioning into AI E
 I build real products from idea to production.
 
 ## 🛠 Stack
-React · Next.js · TypeScript · Javascript · Tailwind CSS · Supabase · FastAPI · Three.js · Python
+<p align="left">
+  <a href="https://alex-cortell.vercel.app/"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,supabase" alt="React · Next.js · TypeScript · Tailwind CSS · Supabase" /></a>
+</p>
 
 ## 🏢 Aetthel
 Co-founder & Product/UI Designer at [Aetthel](https://aetthel.com) a digital studio building landing pages, custom web apps, and process automation (Stripe, OpenAI, Google Workspace, WhatsApp, Slack, n8n, Supabase).
