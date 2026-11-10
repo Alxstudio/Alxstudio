@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://alex-cortell.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/alexcortell"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/alxdevstudio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://aetthel.com"><img src="https://img.shields.io/badge/Aetthel-10b981?style=for-the-badge&logoColor=white" alt="Aetthel" /></a>
 </p>
 
