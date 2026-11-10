@@ -9,17 +9,11 @@ Full-stack · AI Product · AI Engineering — based in Barcelona.
 I build real products from idea to production.
 
 ## 🛠 Stack
-<a href="https://alex-cortell.vercel.app/"><img src="./assets/stack-v2.svg" alt="React · Next.js · TypeScript · JavaScript · Tailwind CSS · Three.js · Node.js · Python · FastAPI · Supabase · Vercel · Claude · Git · Figma" /></a>
+<a href="https://alex-cortell.vercel.app/"><img src="./assets/stack-v3.svg" alt="React · Next.js · Tailwind CSS · Node.js · FastAPI · Three.js · Supabase · Vercel · Git · Claude · Figma · TypeScript · JavaScript · Python" /></a>
 
 ## 🏢 Aetthel
 Co-founder & Product/UI Designer at [Aetthel](https://aetthel.com) a digital studio building landing pages, custom web apps, and process automation (Stripe, OpenAI, Google Workspace, WhatsApp, Slack, n8n, Supabase).
 [→ github.com/Aetthel](https://github.com/Aetthel)
-
-## 🚀 What I'm building
-- **Caleo** Full-stack price comparison app for Spanish supermarkets.
-  LLM pipeline (Claude Haiku) with 96.5% product match rate over 7,500 products.
-- **Sedentaris** Official website for an athletics club. Freelance project.
-- **Aetthel** Landing pages, web apps, and automations for real clients.
 
 ## 📚 Currently
 -  DAW degree · AI-901 certification
