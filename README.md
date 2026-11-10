@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://alex-cortell.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:10b981&height=170&section=header&text=Alex%20Cortell&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Front-end%20%C2%B7%20Full-stack%20%C2%B7%20AI%20Engineering&descSize=16&descAlignY=58" alt="Alex Cortell" /></a>
+  <a href="https://alex-cortell.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:10b981&height=170&section=header&text=Alex%20Cortell&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20%C2%B7%20AI%20Product%20%C2%B7%20AI%20Engineering&descSize=16&descAlignY=58" alt="Alex Cortell" /></a>
   <br />
   <a href="https://alex-cortell.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=10B981&center=true&vCenter=true&width=560&height=28&lines=Building+real+products+from+idea+to+production;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind+%C2%B7+Supabase;Co-founder+%40+Aetthel;Transitioning+into+AI+Engineering" alt="Building real products from idea to production" /></a>
 </p>
