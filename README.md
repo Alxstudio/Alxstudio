@@ -17,7 +17,7 @@ I build real products from idea to production.
 
 ## 🛠 Stack
 <p align="center">
-  <a href="https://alex-cortell.vercel.app/"><img src="./assets/stack-v6.svg" alt="Full-stack: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, Supabase · AI Engineering: Python, FastAPI, Claude · Platform and tooling: Vercel, Git, Figma" /></a>
+  <a href="https://alex-cortell.vercel.app/"><img src="./assets/stack-v7.svg" alt="Full-stack: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, Supabase · AI Engineering: Python, FastAPI, Claude · Platform and tooling: Vercel, Git, Figma" /></a>
 </p>
 
 ## 🏢 Aetthel
